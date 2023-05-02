@@ -4,3 +4,4 @@ EfficientWord-Net/.venv*
 EfficientWord-Net/build
 EfficientWord-Net/EfficientWord_Net.egg-info
 EfficientWord-Net/dist
+eff_word_net/__pycache__
